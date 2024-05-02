@@ -18,7 +18,7 @@ export default function Home() {
           style={{ bottom: "-3px", left: "107px" }}
           className="font-extrabold text-4xl absolute left-5 "
         >
-          Odadee99AI.net
+          <span className="text-blue-300">Odadee</span><span className="text-blue-500">99</span><span className="text-blue-300">AI</span>.net
         </div>
         <p className="font-extrabold">Coming Soon ...</p>
       </div>
